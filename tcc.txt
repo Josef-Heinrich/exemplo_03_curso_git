@@ -1,0 +1,9 @@
+Titulo: programando com rails 
+Resumo: Esse trabalho visa mostrar tal tal tal...
+Surario
+Cap1
+Cap2
+Cap3
+...
+Rederencias
+...
